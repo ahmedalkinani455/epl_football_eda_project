@@ -22,3 +22,7 @@ The dataset is structured as a MySQL schema containing one table per season, EPL
 - Table joins
 - Subqueries
 - Window functions; `RANK`, `SUM`, `OVER`, `LAG`
+
+## Files Used
+- `EPL_SQL_Challenges.pdf` -> a set of challenges designed to apply the SQL knowledge I have learned
+- `EPLFootball_Project.sql` -> A SQL file with all of the queries for each challenge
